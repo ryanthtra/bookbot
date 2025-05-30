@@ -1,3 +1,9 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is a simple word and character counter of locally-stored text files written in Python.
+
+ ## Usage
+ ### From the repo's root directory type:
+ ```
+ $ python3 main.py <path/to/txtfile>
+ ```
